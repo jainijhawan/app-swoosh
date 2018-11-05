@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
-
+    @IBAction func goback(backobj : UIStoryboardSegue){}
 
 }
 
